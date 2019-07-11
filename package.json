@@ -1,0 +1,20 @@
+{
+  "name": "node-url-shortener",
+  "version": "1.0.0",
+  "description": "url shortener ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wuningson/url-shortener.git"
+  },
+  "author": "Christopher Wuni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wuningson/url-shortener/issues"
+  },
+  "homepage": "https://github.com/Wuningson/url-shortener#readme"
+}
